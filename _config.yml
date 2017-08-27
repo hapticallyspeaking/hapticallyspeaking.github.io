@@ -1,11 +1,8 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Haptically Speaking
+author: Floyd Hightower <https://github.com/fhightower>
+email: hapticallyspeaking@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
-
-twitter_username: macrod68
-github_username:  macrod68
+  Website for Haptically Speaking, a business dedicated to making the universe accessible to those with visual impairments.
 
 sass:
     style: compressed

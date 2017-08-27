@@ -7,7 +7,7 @@ permalink: /resources/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
-    <div class="row center">
+    <div id="eclipses" class="row center">
         <h5><b>Getting a Feel for Eclipses</b></h5>
         <i>Our newest project, we've created a tactile book introducing students to solar eclipses.</i>
     </div>
@@ -27,8 +27,8 @@ permalink: /resources/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <div class="row center">
-        <h5>Mars Science Laboratory</h5>
+    <div id="mars-science-laboratory" class="row center">
+        <h5><b>Mars Science Laboratory</b></h5>
         <i>This project gives an overview of some notable, Martian surface features and details the Curiosity rover that was delivered to the Martian surface by the Mars Science Laboratory.</i>
     </div>
     <div class="row center">
@@ -47,7 +47,7 @@ permalink: /resources/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <div class="row center">
+    <div id="lunar-craters" class="row center">
         <h5><b>Getting a Feel for Lunar Craters</b></h5>
         <i>This project investigates lunar craters and the general cratering process.</i>
     </div>

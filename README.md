@@ -1,20 +1,5 @@
-# Jekyll Materialize Starter Template v0.1
+# Haptically Speaking
 
-*A Site Starter Materialize Templates.
+Website for [Haptically Speaking](http://hapticallyspeaking.com).
 
-The theme is a fork of the [minima][1]
-
-![minima theme preview](/screenshot.png)
-
-
-# License
-
-The theme is available as open source under the terms of the [MIT License][2].
-
-[Materialize][3] a  modern responsive front-end framework based on Material Design
-
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+Based on the [Jekyll Materialize Template](https://github.com/macrod68/jekyll-materialize-starter-template) by [Marco Damiani](https://github.com/macrod68).

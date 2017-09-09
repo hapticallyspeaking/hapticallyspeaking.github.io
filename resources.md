@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title orange-text darken-4">{{ page.title | escape }}</h1>
 
 <div class="section">
     <div id="eclipses" class="row center">

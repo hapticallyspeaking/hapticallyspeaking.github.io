@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-<h1 class="page-title orange-text darken-4">{{ page.title | escape }}</h1>
+<h1 class="page-title grey-text text-darken-4">{{ page.title | escape }}</h1>
 
 <div class="section">
     <div class="row">
@@ -12,7 +12,7 @@ permalink: /about/
             <img class="materialboxed" width="100%" src="/media/drhurd-and-students.jpg">
         </div>
         <div class="col m8 l8 xl8">
-            Dr. David Hurd, professor of Astronomy and Meterology at the <a href="http://www.edinboro.edu/">Edinboro University of Pennsylvania</a>, is responsible for managing the design and production of tactile material for Haptically Speaking.
+            Dr. David Hurd, professor of Astronomy and Meteorology at the <a href="http://www.edinboro.edu/">Edinboro University of Pennsylvania</a>, is responsible for managing the design and production of tactile material for Haptically Speaking.
 
             Here is a little bit of information about Dr. Hurd:
 

@@ -18,8 +18,8 @@ permalink: /about/
 
             <ul>
                 <li>- He has twin sons with cerebral palsy, which motivates his work for students with special needs.</li>
-                <li>- Dr. Hurd works with Dr. Cass Runyon from the <a href="http://lhsm.cofc.edu/sservi/" target="_blank" alt="A link the 'Solar System Exploration Virtual Institute' at College of Charleston which creates tactile and other media for the blind and visually impaired.">College of Charleston</a> and a team of others to produce the resources on this site.</li>
-                <li>- In addition to being a professor Edinboro University, he also serves as the Planetarium Director at the <a href="http://www.edinboro.edu/directory/offices-services/planetarium/index.html" target="_blank" alt="A link to Edinboro University's website, where Dr. Hurd teaches and makes tactiles.">Edinboro University of Pennsylvania's Planetarium</a></li>
+                <li>- Dr. Hurd works with Dr. Cass Runyon from the <a href="http://lhsm.cofc.edu/sservi/" target="_blank" title="A link the 'Solar System Exploration Virtual Institute' at College of Charleston which creates tactile and other media for the blind and visually impaired.">College of Charleston</a> and a team of others to produce the resources on this site.</li>
+                <li>- In addition to being a professor Edinboro University, he also serves as the Planetarium Director at the <a href="http://www.edinboro.edu/directory/offices-services/planetarium/index.html" target="_blank" title="A link to Edinboro University's website, where Dr. Hurd teaches and makes tactiles.">Edinboro University of Pennsylvania's Planetarium</a></li>
             </ul>
         </div>
     </div>

@@ -8,7 +8,7 @@ permalink: /contact/
 
 <div class="section">
     <div class="row">
-          <div class="center-align">If you would like to order one of our books or have any questions, please contact us at:<br/><a href="mailto:hapticallyspeaking@gmail.com" alt="If you want to order some of our resources, you can contact us at: haptically speaking at gmail dot com.">hapticallyspeaking@gmail.com</a></div>
+          <div class="center-align">If you would like to order one of our books or have any questions, please contact us at:<br/><a href="mailto:hapticallyspeaking@gmail.com" title="If you want to order some of our resources, you can contact us at: haptically speaking at gmail dot com.">hapticallyspeaking@gmail.com</a></div>
     </div>
 </div>
 <div class="divider"></div>

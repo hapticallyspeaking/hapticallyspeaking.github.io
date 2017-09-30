@@ -9,7 +9,7 @@ permalink: /resources/
 <div class="section">
     <div id="eclipses" class="row center">
         <h4 style="color: #E37222"><b>Getting a Feel for Eclipses</b></h4>
-        <i>Our newest project, we've created a tactile book introducing students to solar eclipses.</i>
+        <i>Our most recent project, we've created a tactile book introducing students to solar eclipses.</i>
     </div>
     <div class="row center">
         <!-- <div class="col m4 l4 xl4 valign-wrapper hide-on-small-only">
@@ -24,7 +24,7 @@ permalink: /resources/
             </ul>
         </div>
         <div>
-            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com?subject=Solar Eclipses Tactile Book">contact us</a>.
         </div>
     </div>
 </div>
@@ -47,7 +47,7 @@ permalink: /resources/
             <img class="materialboxed" width="100%" src="/media/drhurd-and-students.jpg">
         </div> -->
         <div>
-            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com?subject=Mars Science Laboratory Tactile Book">contact us</a>.
         </div>
     </div>
 </div>
@@ -70,7 +70,7 @@ permalink: /resources/
             </ul>
         </div>
         <div>
-            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com?subject=Lunar Craters Tactile Book">contact us</a>.
         </div>
     </div>
 </div>

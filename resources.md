@@ -18,31 +18,37 @@ permalink: /resources/
         <!-- <div class="col m8 l8 xl8"> -->
         <div>
             <ul>
-                <li>- <a href="http://sservi.nasa.gov/books/eclipses.html">Click here</a> to find an overview of this project!</li>
+                <li>- <a href="http://sservi.nasa.gov/books/eclipses.html">Overview</a> of this project</li>
                 <li>- <a href="http://sservi.nasa.gov/books/eclipses_spanish.html">Haga clic aquí</a> si Ud. habla español, para ver una introducción en español al proyecto sobre los eclipses solares.</li>
-                <li>- <a href="http://lhsm.cofc.edu/sservi/">Click here</a> to learn more about the College of Charleston's involvement in this project.</li>
+                <li>- Learn more about the <a href="http://lhsm.cofc.edu/sservi/">College of Charleston's</a> involvement in this project.</li>
             </ul>
+        </div>
+        <div>
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
         </div>
     </div>
 </div>
 <div class="divider"></div>
 <div class="section">
     <div id="mars-science-laboratory" class="row center">
-        <h4 style="color: #E37222"><b>Mars Science Laboratory</b></h4>
+        <h4 style="color: #E37222"><b>Mars Science Laboratory and Curiosity Rover</b></h4>
         <i>This project gives an overview of some notable, Martian surface features and details the Curiosity rover that was delivered to the Martian surface by the Mars Science Laboratory.</i>
     </div>
     <div class="row center">
         <!-- <div class="col m8 l8 xl8"> -->
         <div>
             <ul>
-                <li>- <a href="/media/mars-resources/Mars Science Laboratory and Curiosity Rover.pdf" target="_blank" alt="This is a link to download a PDF copy of the text associated with the tactile resource.">Click here</a> to read this book as a PDF.</li>
-                <li>- <a href="/media/mars-resources/MSL and Curiosity.mp3" target="_blank" alt="This is a link to an MP3 recording of the text professionally read aloud.">Click here</a> to hear the book read aloud.</li>
-                <li>- <a href="/media/mars-resources/mars-science-laboratory-and-curiosity-rover.brf" target="_blank" alt="This is a link to download the Braille Ready Format(BRF) files for this project.">Click here</a> to read this book in BRF.</li>
+                <li>- <a href="/media/mars-resources/Mars Science Laboratory and Curiosity Rover.pdf" target="_blank" alt="This is a link to download a PDF copy of the text associated with the 'Mars Science Laboratory and Curiosity Rover' tactile resource.">Supplemental PDF</a></li>
+                <li>- <a href="/media/mars-resources/MSL and Curiosity.mp3" target="_blank" alt="This is a link to an MP3 recording of the 'Mars Science Laboratory and Curiosity Rover' text professionally read aloud.">Audio recording of supplemental PDF</a></li>
+                <li>- <a href="/media/mars-resources/mars-science-laboratory-and-curiosity-rover.brf" target="_blank" alt="This is a link to download the Braille Ready Format(BRF) files for the 'Mars Science Laboratory and Curiosity Rover' project.">Braille Ready Format (BRF) version of supplemental PDF</a></li>
             </ul>
         </div>
         <!-- <div class="col m4 l4 xl4 valign-wrapper hide-on-small-only">
             <img class="materialboxed" width="100%" src="/media/drhurd-and-students.jpg">
         </div> -->
+        <div>
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
+        </div>
     </div>
 </div>
 <div class="divider"></div>
@@ -58,11 +64,13 @@ permalink: /resources/
         <!-- <div class="col m8 l8 xl8"> -->
         <div>
             <ul>
-                <li>- <a href="/media/crater-resources/Getting a Feel for Lunar Craters.pdf" target="_blank" alt="This is a link to download a PDF copy of the text associated with the tactile resource.">Click here</a> to read this book as a PDF.</li>
-                <li>- <a href="/media/crater-resources/LunarCraters Audio.mp3" target="_blank" alt="This is a link to an MP3 recording of the text professionally read aloud.">Click here</a> to hear the book read aloud.</li>
-                <li>- <a href="/media/crater-resources/lunar-craters.brf" target="_blank" alt="This is a link to download the Braille Ready Format(BRF) files for this project.">Click here</a> to read this book in BRF.</li>
-
+                <li>- <a href="/media/crater-resources/Getting a Feel for Lunar Craters.pdf" target="_blank" alt="This is a link to download a PDF copy of the text associated with the 'Getting a Feel for Lunar Craters' tactile resource.">Supplemental PDF</a></li>
+                <li>- <a href="/media/crater-resources/LunarCraters Audio.mp3" target="_blank" alt="This is a link to an MP3 recording of the 'Getting a Feel for Lunar Craters' text professionally read aloud.">Audio recording of supplemental PDF</a></li>
+                <li>- <a href="/media/crater-resources/lunar-craters.brf" target="_blank" alt="This is a link to download the Braille Ready Format(BRF) files for the 'Getting a Feel for Lunar Craters' project.">Braille Ready Format (BRF) version of supplemental PDF</a></li>
             </ul>
+        </div>
+        <div>
+            To order the braille book for this project, please <a href="mailto:hapticallyspeaking@gmail.com">contact us</a>.
         </div>
     </div>
 </div>

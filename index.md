@@ -2,6 +2,6 @@
 layout: home
 ---
 
-**Haptically *(adv.)*:** pertaining to the sense of touch
+**Haptically *(adv.)* :** &nbsp;pertaining to the sense of touch
 
-**Speaking *(gerund)*:** expressing or telling (often eloquently)
+**Speaking *(gerund)* :** &nbsp;expressing or telling (often eloquently)

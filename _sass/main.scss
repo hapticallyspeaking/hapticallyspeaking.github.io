@@ -6,6 +6,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
     -webkit-font-smoothing: antialiased;
 }
+a {
+    text-decoration: underline;
+
+  // Gets rid of tap active state
+  -webkit-tap-highlight-color: transparent;
+}
 .icon-block {
   padding: 0 15px;
 }

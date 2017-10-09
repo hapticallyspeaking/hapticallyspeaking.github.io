@@ -18,9 +18,9 @@ permalink: /resources/
         <!-- <div class="col m8 l8 xl8"> -->
         <div>
             <ul>
-                <li>- <a href="http://sservi.nasa.gov/books/eclipses.html" title="Link to an overview of the project from NASA's Solar System Exploration Research Virtual Institute.">Overview</a> of this project</li>
-                <li>- <a href="http://sservi.nasa.gov/books/eclipses_spanish.html" title="Link to an overview (in Spanish) of the project from NASA's Solar System Exploration Research Virtual Institute.">Haga clic aquí</a> si Ud. habla español, para ver una introducción en español al proyecto sobre los eclipses solares.</li>
-                <li>- Learn more about the <a href="http://lhsm.cofc.edu/sservi/" title="Link to College of Charleston's website detailing their involvement in this project.">College of Charleston's</a> involvement in this project.</li>
+                <li>- <a href="https://sservi.nasa.gov/books/eclipses.html" title="Link to an overview of the project from NASA's Solar System Exploration Research Virtual Institute.">Overview</a> of this project</li>
+                <li>- <a href="https://sservi.nasa.gov/books/eclipses_spanish.html" title="Link to an overview (in Spanish) of the project from NASA's Solar System Exploration Research Virtual Institute.">Haga clic aquí</a> si Ud. habla español, para ver una introducción en español al proyecto sobre los eclipses solares.</li>
+                <li>- Learn more about the <a href="https://lhsm.cofc.edu/sservi/" title="Link to College of Charleston's website detailing their involvement in this project.">College of Charleston's</a> involvement in this project.</li>
             </ul>
         </div>
         <div>

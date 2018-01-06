@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-<h1 class="page-title grey-text text-darken-4">{{ page.title | escape }}</h1>
+<h1 class="header center grey-text text-darken-4">{{ page.title | escape }}</h1>
 
 <div class="section">
     <div class="row">

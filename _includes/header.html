@@ -1,5 +1,5 @@
 <nav class="grey darken-4">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}" title="Home page"><b>Haptically<span style="color: #E37222">Speaking</span></b></a>
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}" title="Home"><b>Haptically<span style="color: #F9771A;">Speaking</span></b></a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
@@ -8,7 +8,7 @@
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
                     {% if my_page.title %}
-                    <li><a href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title | escape }}</a></li>
+                    <li><a style="font-size: 1em;" href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title | escape }}</a></li>
                     {% endif %}
                 {% endfor %}
             {% endif %}

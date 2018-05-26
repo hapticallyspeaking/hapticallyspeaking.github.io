@@ -6,11 +6,13 @@ permalink: /resources/
 
 <h1 class="header center grey-text text-darken-4">{{ page.title | escape }}</h1>
 
-<div class="section" style="background-color: lightgrey;">
-    <div class="row">
+<div class="section">
+    <div class="row" style="background-color: lightgrey;">
           <div class="center-align">If you would like to order one of our books or have any questions, please contact us at:<br/><a href="mailto:hapticallyspeaking@gmail.com" title="If you want to order some of our resources, you can contact us at: haptically speaking at gmail dot com.">hapticallyspeaking@gmail.com</a></div>
     </div>
 </div>
+
+<div class="divider"></div>
 
 <div class="section">
     <div id="eclipses" class="row center">
@@ -34,7 +36,9 @@ permalink: /resources/
         </div>
     </div>
 </div>
+
 <div class="divider"></div>
+
 <div class="section">
     <div id="mars-science-laboratory" class="row center">
         <h4><b>Mars Science Laboratory and Curiosity Rover</b></h4>
@@ -57,7 +61,9 @@ permalink: /resources/
         </div>
     </div>
 </div>
+
 <div class="divider"></div>
+
 <div class="section">
     <div id="lunar-craters" class="row center">
         <h4><b>Getting a Feel for Lunar Craters</b></h4>
